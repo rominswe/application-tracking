@@ -1,0 +1,10 @@
+{
+  "name": "Application Tracking",
+  "description": "An extension to track and manage your career application efficiently.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": "images/icon.png"
+  }
+}
